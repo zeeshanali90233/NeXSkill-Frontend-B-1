@@ -1,0 +1,16 @@
+Introduction
+
+Cores of WEB
+Difference between web and web apps
+
+HTML
+
+CSS
+
+JS
+
+Introduction of all above
+
+HTML Boiler Template
+
+HTML Headings, paragraphs etc
