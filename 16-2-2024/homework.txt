@@ -1,0 +1,9 @@
+Make a bloging Site
+In which in start there would be you portfolio or about details
+
+
+then 
+there should blogs (headings and body of blog)
+there should be atleast 5 blogs sequentially vertical
+
+use all possible tags, site cite reference , all semantic markups etc

@@ -1,0 +1,25 @@
+
+
+WebSite Vs Web App
+
+Web Core
+
+--> HTML --> Hyper Text Markup Language  --> .html .htm
+--> CSS		--> Cascading StyleSheet   --> .css
+--> Javascript JS 	--> .js
+
+
+HTML
+
+	-> Heading
+		-> h1 , h2 , h3 , h4 , h5 , h6 
+		-> p    
+		-> i
+		-> b
+		-> br
+	-> Commenting  <!-- -->
+		-> sub
+		-> sup
+		-> hr
+		-> abbr
+		-> cite
