@@ -1,0 +1,31 @@
+
+HTML
+
+	address tag 
+
+	Remaining Semantic markups	
+		-> ins
+		-> del
+
+	Listing
+		-> Ordered List
+		-> Unordered List
+		-> Nested Listing
+
+
+	ankle tags
+		-> a tag
+		-> External Source Divertion
+		-> Intra Website Page Transitions
+	
+	File Paths
+		-> Forward and backward Paths
+
+	Images
+		-> Through Path
+		-> Through External Source
+		-> width , height properties
+		-> alt text
+
+
+div & secions etc should be taught in next class
