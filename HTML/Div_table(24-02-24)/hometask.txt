@@ -1,0 +1,15 @@
+Continued
+
+Convert your previous home task code into more structure code
+by using or making div or sections
+
+1) make the same table Book Page 136 Table 
+
+2) Colsspan and RowSpan properties to above table in second example
+
+3) embed any youtube video and map of dummy location
+
+4) also embed or add your own publications
+
+5) Make a contact form below to contact you using inputs in HTML
+

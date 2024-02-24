@@ -1,0 +1,21 @@
+
+HTML
+
+	1) Div & section
+		-> scope
+		-> uses
+		-> hometask
+	2) tables
+		-> thead
+		-> tbody
+		-> tfoot
+
+	3) iframe
+		-> external source 
+		-> internal source
+	4) forms
+		-> starter intro
+		-> all type of inputs
+
+
+id and classname should be taugth in next class
