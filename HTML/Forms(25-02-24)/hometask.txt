@@ -1,0 +1,21 @@
+Continued
+
+    Add this form into your previous blog hometask
+
+    Make a student admission form or any other relavant category, taking all necassary and optional fields , use proper spacing and section spacing like hr tags.
+    
+    This form must have 2 , 3 dropdown selects
+
+    There must be min 20 fields .
+
+    Also style the form as much as it can be possible using HTML
+
+    Add suitable placeholders
+
+    Add min and max length restrictions
+
+
+Note: 
+    -> Use proper naming convention and classes , id's related to their context
+    -> Use proper commenting
+

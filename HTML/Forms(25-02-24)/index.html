@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms</title>
+  </head>
+  <body>
+    <!-- 
+
+
+     -->
+
+    <form>
+      <div class="name_input" id="name">
+        <label for="name">Name*</label>
+        <br />
+        <input
+          type="text"
+          name="name"
+          placeholder="Enter your name"
+          id="name"
+          required
+        />
+      </div>
+      <div class="description_block" id="description_block">
+        <label for="description">Description*</label>
+        <br />
+        <textarea
+          type="text"
+          name="description"
+          placeholder="Enter description"
+          id="description"
+          maxlength="10"
+          minlength="2"
+          cols="50"
+          rows="5"
+          required
+        ></textarea>
+      </div>
+
+      <div class="gender_block" id="gender_block">
+        <label for="gender">Gender</label>
+
+        <div>
+          <label for="gender">Male</label>
+          <input type="radio" name="gender" id="gender" required />
+        </div>
+        <div>
+          <label for="gender">Female</label>
+          <input type="radio" name="gender" id="gender" required />
+        </div>
+        <div>
+          <label for="gender">Other</label>
+          <input type="radio" name="gender" id="gender" required />
+        </div>
+      </div>
+
+      <div>
+        <input type="file" name="profile" id="" />
+      </div>
+
+      <div>
+        <select name="courses" id="courses" required>
+          <option value="">select a course</option>
+          <option value="124">MERN Course</option>
+          <option value="125">FERN Course</option>
+          <option value="126">Ethereum Blockchain Course</option>
+          <option value="127">AWS Course</option>
+          <option value="128">GCP Course</option>
+          <option value="129">Azure Course</option>
+        </select>
+      </div>
+
+      <br />
+      <hr />
+
+      <input type="number" name="" min="5" id="" />
+
+      <button type="submit">Submit & Save</button>
+      <button type="reset">Reset</button>
+    </form>
+  </body>
+</html>

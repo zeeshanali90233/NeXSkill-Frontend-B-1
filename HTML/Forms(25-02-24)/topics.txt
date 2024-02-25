@@ -1,0 +1,15 @@
+
+HTML
+	-> Last session 
+	-> Forms
+	-> Selects
+	-> Buttons
+	-> Class and ID
+
+	-> Naming Convention
+		-> Pascal Case -> Name, ClassName , GenderName , LaptopBlock
+		-> Camel Case -> name , className, genderName , laptopBlock
+		-> Snake Case ->  class_name , gender_name , laptop_block
+
+
+
