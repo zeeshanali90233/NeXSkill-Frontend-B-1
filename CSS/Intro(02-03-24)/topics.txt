@@ -1,0 +1,11 @@
+
+CSS
+	-> Intro
+	-> 3 ways of Integrating it with html
+	-> style tag -> Infile 
+	-> ways of targeting a tag , container through different ways in css -> Book Page 238
+	-> Background Color, Font Size, Font Weight, Color , text Align, font family Properties etc.
+	-> Targeting Concept like descentdent Targeting etc -> Important
+	-> Inline Styling
+	-> Netlify Project Deployment
+	-> Final Project Document Briefing
