@@ -9,3 +9,11 @@ CSS
 	-> Inline Styling
 	-> Netlify Project Deployment
 	-> Final Project Document Briefing
+
+Next Session:
+Padding , Margin
+Properties
+Box Model
+Position Model
+Grid
+Display
