@@ -1,0 +1,75 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  height: 10rem;
+}
+/* p {
+    text-transform: uppercase;
+    text-decoration: wavy;
+    text-wrap: wrap;
+    word-wrap: break-word;
+    word-break: break-all;
+
+    text-align: right;
+  } */
+
+.gradient {
+  width: 10%;
+  height: 2rem;
+  /* background-image: linear-gradient(
+      to top,
+      red 47%,
+      green 10%,
+      #54654f,
+      rgba(45, 45, 85, 1)
+    ); */
+  background-image: url("../../HTML//Div_table\(24-02-24\)/assets/the.jpeg");
+  /* background-repeat: repeat-x; */
+  background-size: 1000px;
+}
+
+div.shadow_box {
+  width: 20rem;
+  height: 5rem;
+  background-color: blueviolet;
+  text-align: center;
+  text-shadow: 0px 2px 5px #fff;
+}
+
+button.btn_submit {
+  padding: 10px;
+  color: white;
+  background-color: brown;
+  width: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button.btn_submit:hover {
+  background-color: crimson;
+}
+
+input[type="email"]:focus {
+  /* background-color: black; */
+  border-width: 2px !important;
+  border-color: white !important;
+  border-style: solid !important;
+}
+
+/* Startting Hello */
+a[href^="Heello"] {
+  background-color: black;
+}
+
+/* Ending o */
+a[href$="o"] {
+  background-color: black;
+}
+
+/* At Any o */
+a[hre*="o"] {
+  background-color: black;
+}

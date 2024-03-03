@@ -1,0 +1,24 @@
+
+CSS
+	-> Padding , Margin
+	-> External CSS
+	-> Pseudo Selectors -> focus,hover 
+	-> Line Height
+	-> Line Spacing
+	-> Word Spacing
+	-> Word Wrap
+	-> text shadow
+	-> backgroung Image
+	-> Linear Gradient
+	-> CSS Targeting using type = 
+	-> CSS Targeting using similar, startsWith, endsWith
+	-> textDecoration
+	-> textAlign
+	-> textTransform
+	-> css universal Selector
+
+Next Session:
+Box Model
+Position Model
+Grid
+Display

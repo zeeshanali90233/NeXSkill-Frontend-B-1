@@ -1,0 +1,12 @@
+Continued
+
+    All topic we have studied, Apply it to your own above project
+
+    Only Share the deployed public URL
+
+    Make an interactive design in your project using all CSS properties ,
+    
+Note: 
+    -> Use proper naming convention and classes , id's related to their context
+    -> Use proper commenting
+
