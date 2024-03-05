@@ -55,7 +55,7 @@ A Frontend Course 2 months covering following course contents:
         Netlify Account
         Publically Deploying the project -> Reverse Proxy
    
-    Projects
+6)  Projects & Vivas
 
 
 
