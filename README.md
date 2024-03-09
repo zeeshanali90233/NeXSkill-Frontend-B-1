@@ -41,9 +41,21 @@ A Frontend Course 2 months covering following course contents:
         Asynchronous JavaScript (Callbacks, Promises, Async/Await)
         Introduction to ES6+ Features
 
-    Projects
+4) Github Desktop:
+
+        Github Introduction
+        Repository Creation
+        Managing Commits
+        Pushing the changes and pulling
 
 
+5) Project Deployment:
+
+        Deployment Introduction
+        Netlify Account
+        Publically Deploying the project -> Reverse Proxy
+   
+6)  Projects & Vivas
 
 
 
