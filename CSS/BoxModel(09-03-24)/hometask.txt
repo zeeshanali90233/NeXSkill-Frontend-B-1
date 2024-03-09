@@ -1,0 +1,13 @@
+Continued
+
+    All topic we have studied, Apply it to your own above project
+
+    Only Share the deployed public URL
+
+    Make an interactive design in your project using all CSS properties ,
+
+    Make a complete clone/replica of this site , whose reference : https://github.com/zeeshanali90233/euphora-xr
+Note: 
+    -> Use proper naming convention and classes , id's related to their context
+    -> Use proper commenting
+

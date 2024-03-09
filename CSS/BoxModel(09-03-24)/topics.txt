@@ -1,0 +1,29 @@
+
+CSS
+	-> Box Model
+	-> flex Model
+	-> flex direction
+	-> justify and alignitems 
+
+-> If flex direction is row wise
+	-> justify-content-> Horizontally Alignment
+	-> align-items-> vertically alignment
+
+-> If flex direction is Column wise
+	-> justify-content-> vertically Alignment
+	-> align-items-> Horizontally alignment
+
+	-> Grid 
+	-> Template Rows
+	-> Template Columns
+	-> Frame and percentage rows & Columns
+	-> Rows and Column Merge Up
+	-> Column and Row Gap
+
+-> Custom Layout using grid 
+
+Next Session:
+
+Position Model
+media query 
+Animations

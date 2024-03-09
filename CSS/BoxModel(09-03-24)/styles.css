@@ -1,0 +1,76 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
+.orange {
+  background-color: orange;
+}
+
+/*Flex Display Model */
+.paret_div {
+  display: flex;
+  /* flex-direction: row-reverse; */
+  justify-content: space-evenly; /* Horizontally Alignment*/
+  align-items: center; /* Vertically Alignment*/
+  height: 30rem;
+  background-color: brown;
+}
+
+/* Column Wise Flex Display Model */
+.paret_div {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-evenly; /*Vertically Alignment*/
+  align-items: center; /*Horizontally Alignment*/
+  height: 30rem;
+  background-color: brown;
+}
+
+/* Grid */
+.parent_div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  height: 30rem;
+  background-color: brown;
+}
+
+.green {
+  /* grid-column-start: 1;
+  grid-column-end: 3; */
+  /* grid-row-start: 1;
+  grid-row-end: 5; */
+  /* grid-row: 1/4; */
+  /* grid-row: 1/4; */
+  background-color: black !important;
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 700px) and (min-width: 100px) {
+  .parent_div {
+    background-color: darkorange;
+    flex-direction: column;
+  }
+}
+@media screen and (min-width: 700px) {
+  .green {
+    grid-row: 1/4;
+  }
+}
