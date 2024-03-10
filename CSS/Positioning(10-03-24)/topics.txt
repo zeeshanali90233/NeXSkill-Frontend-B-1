@@ -1,0 +1,25 @@
+
+CSS
+	-> Position Models
+		-> Static, Relative, Absolute, Sticky , Fixed
+	-> Media Queries
+		-> Screen -> min width and max width
+		-> Orientation 
+	-> Transitions
+	-> 2 more pseudo selectors -> After and Before
+	-> Layout Adjustments for different screen widths
+	-> Short Hand Propeties 
+	-> Multiple Pseudo Selectors like :hover:after
+	-> Ease, Ease in , Ease out , Ease-in-out
+
+Next Session:
+
+
+Animations --> Last topic
+JS Starter 
+
+Github
+Styling Library
+DOM
+8 Sessions
+

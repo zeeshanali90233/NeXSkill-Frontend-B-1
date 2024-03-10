@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* 
+static -> default -> Normal Flow
+absolute -> Outside Normal Flow , top , right , left , bottom
+relative ->  Normal Flow , top , right , left , bottom
+fixed ->  Outside Normal Flow , top , right , left , bottom , Fixed on the screen 
+sticky ->   Normal Flow , top , right , left , bottom , when screen scrolling -> Stick at the borders
+*/
+.main_div {
+  /* width: 100%;
+
+  height: 100%; */
+  width: 100vw;
+  height: 56vh;
+  /* width: 1000px;
+  height: 1500px; */
+  background-color: blue;
+}
+
+/* Absolute */
+/* .child_div {
+  position: absolute;
+  left: 50%;
+  bottom: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+} */
+
+/* Relative */
+/* .child_div {
+  position: relative;
+  top: 35%;
+  left: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+} */
+
+.child_div {
+  position: sticky;
+  top: 0px;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+
+  transition: transform 1s ease-in-out;
+}
+
+.child_div:hover {
+  transform: rotate(45deg);
+}
+
+.child_div:hover:after {
+  content: "Hello After";
+}
+
+.btn_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn_submit {
+  width: 100px;
+  font-size: larger;
+  color: white;
+  padding: 5px;
+  background-color: blue;
+  cursor: pointer;
+  border-radius: 5px;
+  position: relative;
+}
+
+.btn_submit:before {
+  content: "";
+  width: 0%;
+  height: 100%;
+  opacity: 0.5;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all 1s ease; /*Short Hand property */
+  margin: 12px 15px 11px 1px;
+  margin: 1px;
+  /* margin:top right bottom left; */
+
+}
+
+.btn_submit:hover::before {
+  width: 100%;
+}

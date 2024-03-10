@@ -1,0 +1,14 @@
+Continued
+
+    
+HomeTask-> https://css-tricks.com/almanac/properties/t/transition/
+
+    Make the clone of any one below:
+	    HTML - CSS
+	    > 1) https://www.youtube.com/watch?v=TdjmTjuU8JEhttps://www.youtube.com/watch?v=TdjmTjuU8JE
+	    > 2) https://www.youtube.com/watch?v=ovKVqo-L2EM
+
+Note: 
+    -> Use proper naming convention and classes , id's related to their context
+    -> Use proper commenting
+
