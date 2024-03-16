@@ -1,0 +1,13 @@
+    - Intro
+    - console.log
+    - console.warn
+    - console.error
+    - Variables
+    - Datatypes
+    - Mathematical Problems
+    - if statment
+    - if block
+    - single equal -> initializing
+    - double or tripple equal checking 
+    
+    

@@ -1,0 +1,3 @@
+Write a js code for DMAS by using Variables
+
+also write one or more if statements to check number is greater than or less than , equals to 5

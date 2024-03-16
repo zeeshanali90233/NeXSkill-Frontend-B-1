@@ -1,0 +1,23 @@
+Javascript (ES6+)
+
+
+
+1995 , Brenden Eich 
+
+Mocha -> 10 days
+
+
+Netscape 2
+
+1997 ECMA 
+
+Livescript
+
+
+Javascript
+
+ES6+
+
+Object Oriented , dynamically typed , scirpting language 
+
+.js
