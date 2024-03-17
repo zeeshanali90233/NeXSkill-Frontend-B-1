@@ -1,0 +1,5 @@
+1) Make a age calculator by taking user birth year
+
+
+2) Take a mathematical expression from user and calculate it and show the result
+    hint: use Math.eval()

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+
+  <script>
+    let startingNumber = Number(prompt("Enter the starting number: "));
+    let endingNumber = Number(prompt("Enter the ending number: "));
+    let numberDifference = Number(prompt("Enter the ending number: "));
+
+    if (startingNumber > endingNumber) {
+      alert("You entered incorerect");
+    }
+    for (let i = startingNumber; i <= endingNumber; i += numberDifference) {
+      console.log(i);
+    }
+  </script>
+</html>
