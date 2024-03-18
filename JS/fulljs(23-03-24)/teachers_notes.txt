@@ -1,0 +1,28 @@
+
+- Functions
+    -> Callback 
+    -> parameters
+    -. arguments
+    -> anonymous Functions
+    -> arrow functions
+
+- array
+    -> concat
+    -> push , pop
+    -> shift : removes the first element
+    -> unshift: add in the start of the array
+    -> find: returns the first element that passed the test
+    -> foreach
+    -> map
+    -> includes
+    -> indexof
+    -> reverse
+    -> slice
+
+Loops
+    -> for of -> array elements
+    -> for in -> keys/index
+
+DOM -> Start 
+    -> class & id targeting 
+    -> event listeners
