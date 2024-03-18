@@ -23,6 +23,8 @@ Loops
     -> for of -> array elements
     -> for in -> keys/index
 
-DOM -> Start 
+DOM 
+    -> Start 
     -> class & id targeting 
     -> event listeners
+    
