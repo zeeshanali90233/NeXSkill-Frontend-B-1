@@ -1,13 +1,11 @@
-    - Intro
-    - console.log
-    - console.warn
-    - console.error
     - Variables
-    - Datatypes
-    - Mathematical Problems
-    - if statment
-    - if block
-    - single equal -> initializing
-    - double or tripple equal checking 
+    - Types of Variables
+    - let, var, const and Diff
+    - Conditional Statements
+    - Loops, for, while
+    - Switch Statment 
+    - User Input -> prompt
+    - String to Number
+    - alerts
     
     

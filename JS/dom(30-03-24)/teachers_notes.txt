@@ -1,0 +1,15 @@
+
+
+Loops
+    -> for of -> array elements
+    -> for in -> keys/index
+
+DOM 
+    -> Start -> 
+    -> class & id targeting -> 
+    -> Sum , Toggle Theme etc
+    -> event listeners -> 
+
+remaining event listeners 
+-> HW
+    
