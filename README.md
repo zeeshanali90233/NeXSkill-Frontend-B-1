@@ -1,93 +1,127 @@
+# Frontend Development with AI Chatbot Course
 
-## Authors
+## Batch - 1
 
-- [@zeeshanali](https://www.github.com/zeeshanali90233)
+## Company: NeXskill Arfa Tower Main Branch, Lahore Pakistan
 
-# NeXSkill
+Welcome to the **Frontend Development with AI Chatbot Course**! This course is designed to help beginners build a strong foundation in frontend web development and AI chatbot creation using APIs like ChatGPT, Gemini, Phind, and Claude LLM. Over 16 lectures, you'll master the essentials of HTML, CSS, JavaScript, version control using Git and GitHub, and gain hands-on experience with AI chatbot integration.
 
-A Frontend Course 2 months covering following course contents:
+---
 
-1) HTML:
+## 📚 Course Overview
 
-            Introduction to HTML
-            HTML Basic Structure
-            HTML Tags and Attributes
-            Working with Text and Links
-            Lists, Tables, and Forms in HTML
-            HTML Semantic Elements
-            Creating a Simple Website using HTML
+| Topic            | Lectures |
+| ---------------- | -------- |
+| **HTML**         | 4        |
+| **Git & GitHub** | Lec 3-16 |
+| **JavaScript**   | 6        |
+| **CSS**          | 6        |
 
-2) CSS:
+### 🖥️ Tools & Technologies Covered:
 
-        Introduction to CSS
-        CSS Syntax and Selectors
-        CSS Box Model
-        CSS Display and Positioning
-        CSS Flexbox and Grid Layout
-        CSS Animations
-        CSS Pseudo Selectors
-        CSS Root Variables
-        Responsive Web Design with CSS Media Queries
+- **HTML**: Learn the building blocks of web development, including semantic tags, structure, and best practices.
+- **CSS**: Style your web pages with modern layouts, animations, and responsive design.
+- **JavaScript**: Add interactivity and functionality to your web projects.
+- **Git & GitHub**: Master version control to track changes and collaborate effectively.
+- **AI Chatbots**: Learn to integrate APIs like ChatGPT, Gemini, Phind, and Claude LLM to create intelligent chatbots.
 
-3) JS:
+---
 
-        Introduction to JavaScript
-        JavaScript Variables and Data Types
-        JavaScript Operators and Expressions
-        JavaScript Functions
-        JavaScript Arrays and Objects
-        DOM Manipulation with JavaScript
-        Event Handling in JavaScript
-        Asynchronous JavaScript (Callbacks, Promises, Async/Await)
-        Introduction to ES6+ Features
+## 📆 Course Outline
 
-4) Github Desktop:
+### **1. HyperText Markup Language (HTML)**
 
-        Github Introduction
-        Repository Creation
-        Managing Commits
-        Pushing the changes and pulling
+- Introduction to HTML & Basic Structure
+- Semantic HTML & Best Practices
+- Forms, Inputs, and Tables
+- Embedding Media: Images, Videos, and Audio
 
+### **2. Git & GitHub**
 
-5) Project Deployment:
+- Introduction to Git: Version Control Basics
+- Collaborating with GitHub: Pushing, Pulling, and Merging
+- Usability of Github Desktop Application: (Pushing, Pulling, and Merging) using UI
 
-        Deployment Introduction
-        Netlify Account
-        Publically Deploying the project -> Reverse Proxy
-   
-6)  Projects & Vivas
+### **3. JavaScript (JS)**
 
+- JavaScript Fundamentals: Variables, Data Types, Naming Conventions, and Operators
+- Functions, Loops, and Conditionals
+- DOM Manipulation
+- API Calling ang Asynchronous Architecture 
+- Events and Event Handling
+- Introduction to ES6 Features
+- Debugging & Best Practices
 
+### **4. Cascading Style Sheets (CSS)**
 
-## FAQ
+- CSS Basics: Selectors, Properties, and Units
+- Box Model & Positioning
+- Flexbox and Grid Layouts
+- Responsive Design with Media Queries
+- Animations and Transitions
+- CSS Best Practices and Optimization
+- Youtube/Spotify/Netflix Clone
 
-#### Who is teaching
+### **5. AI Chatbots**
 
-Answer: Zeeshan Ali is teaching get more info of it from here: https://www.linkedin.com/in/zeeshan-ali-dev/
+- Introduction to AI and Chatbots
+- Overview of Popular LLM APIs (ChatGPT, Gemini, Phind, Claude LLM)
+- Setting Up API Keys and Authentication
+- Creating Basic Chatbot Features
+- Enhancing Chatbots with Advanced Functionalities(Contexts)
+- Integrating with Frontend
 
-#### What tools do I need to complete this course?
+---
 
-To complete this course, you will need a code editor (such as Visual Studio Code, Sublime Text, or Atom), a web browser (such as Chrome, Firefox, or Safari), and a stable internet connection.
+## 👩‍🏫 Instructor Profile
 
+**Name**: Zeeshan Ali  
+**Role**: Software Engineer, Web Instructor  
+**Experience**:
+- Rector's Merit Academic Award Holder (UMT)
+- Expertise in **MERN, FERN, Next.js TypeScript, React Native, Dapps, GraphQL, and cloud technologies**
+- Certifications in **Amazon EBS, Foundational Generative AI, Responsible AI, and Google Cloud Essentials**
+- Industry experience in **web/mobile apps**, **cloud native technologies**, **Dapps** and **Multilingual AI Agents** 
 
-#### Can I enroll in this course if I have no prior programming experience?
+**LinkedIn**: [Zeeshan Ali](https://www.linkedin.com/in/zeeshanali90233)  
+**GitHub**: [zeeshanali90233](https://github.com/zeeshanali90233)
 
-es, this course is designed for beginners with no prior programming experience. The course starts with the basics and gradually progresses to more advanced topics.
+---
 
+## 🌟 Key Features of the Course
 
+- Hands-on practice assignments.
+- Real-world projects to build a portfolio.
+- Collaborative learning with Git and GitHub.
+- Integration of AI APIs for chatbot creation.
+- Professional tips and industry best practices.
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+---
 
+## 🚀 How to Get Started
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/zeeshan-ali-dev/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-ali-dev/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/zeeshan-ali-dev/)
+1. **Pre-requisites**: No prior coding experience required! Just bring your curiosity and enthusiasm.
+2. **Tools to Install**:
+   - Code Editor: [VS Code](https://code.visualstudio.com/)
+   - Browser: [Google Chrome](https://www.google.com/chrome/)
+   - Git: [Install Git](https://git-scm.com/)
+   - Github Desktop: [Install Github Desktop](https://desktop.github.com/download/)
+   - API Clients: [ThunderClient VS Code Extension](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+3. **Code**: Take updated code by downloading this Repository as a zip or run the following command in CMD if Git is installed successfully.
+```bash
+git clone https://github.com/zeeshanali90233/NeXskill-Frontend-B-5.git
+```
 
+---
 
-## Used By
+## 📖 Helping Material
 
-This project is used by the following company:
+1. **Consult Books**: Refer to John Duckett's "HTML & CSS" and Svekis's "JavaScript: Beginner to Professional" books for foundational knowledge.
+2. **Documentation & AI Help**: Utilize AI tools like ChatGPT, Phind, Gemini, and online documentation resources for assistance. They are just a search away!
+3. **YouTube Channel**: Explore additional helping content videos on my [Learn With Ali Engineer](https://www.youtube.com/@learnwithaliengineer) to reinforce your learning.
 
-- NeXSkill PVT(LTD)
+---
+
+## 📝 Contact & Support
+
+For any questions, feel free to reach out me at any social platform plus through email **zeeshanali90233@gmail.com**.
