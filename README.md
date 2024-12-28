@@ -109,7 +109,7 @@ Welcome to the **Frontend Development with AI Chatbot Course**! This course is d
    - API Clients: [ThunderClient VS Code Extension](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 3. **Code**: Take updated code by downloading this Repository as a zip or run the following command in CMD if Git is installed successfully.
 ```bash
-https://github.com/zeeshanali90233/NeXSkill-Frontend-B-1.git
+git clone https://github.com/zeeshanali90233/NeXSkill-Frontend-B-1.git
 ```
 
 ---
